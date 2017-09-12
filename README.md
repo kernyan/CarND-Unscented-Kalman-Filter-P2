@@ -106,7 +106,7 @@ See [Udacity's Extended Kalman Filter Project page](https://github.com/udacity/C
 2. cd build
 3. cmake ..
 4. make
-5. ./ExtendedKF
+5. ./UnscentedKF
 
 # Reference
 
